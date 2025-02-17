@@ -1,6 +1,10 @@
 Assembly Guide
 ==============
 
+.. image:: _static/images/mixer_module.png
+   :height: 400
+   :alt: Mixer+ Module
+
 Placing Components
 ------------------
 
