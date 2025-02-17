@@ -3,14 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Module Documentation
-====================
+.. include:: ../../README.rst
 
-Overview. Provide a description of the module here.
+.. only:: builder_html
+
+   Schematic
+   ---------
+
+   Download the :download:`schematic <_static/mixer.pdf>`.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Documentation
 
    theory
    assembly
